@@ -7,7 +7,11 @@
 01. mkdir test_folder
 02. cd test_folder
 03. git init
+
+// 添加README.md文件
 04. touch README.md
+04. vim README.md
+
 05. git add README.md
 06. git commit -m "first commit"
 07. git remote add gitee https://gitee.com/seedcm/test.git
