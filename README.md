@@ -19,6 +19,6 @@
 02. git pull --rebase [YourRepositoriesName] master
 
 ### push
-01. git add [Files]
+01. git add [Files] / git add *
 02. git commit -m ["input something here about you want"]
-03. git push -u [YourRepositoriesName] master / git push
+03. git push -u [YourRepositoriesName] master / git push [YourRepositoriesName] master
