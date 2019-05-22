@@ -22,3 +22,8 @@
 01. git add [Files] / git add *
 02. git commit -m ["input something here about you want"]
 03. git push -u [YourRepositoriesName] master / git push [YourRepositoriesName] master
+
+### clone
+01. mkdir [NewFolderName]
+02. cd NewFolderName
+03. git clone git@github.com:[YourName]/[RepositoryName].git
